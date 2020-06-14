@@ -1,7 +1,7 @@
 import React from 'react';
 function Dinner(props){
     return(
-        <div>
+        <div >
         <h1>hello world i am ijaz sarwar</h1>
         
         <div>
